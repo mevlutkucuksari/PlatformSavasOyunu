@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/baslangicEkrani.unity
+    guid: 1f9cf2e4fa232fa4d8f0d3569f520f15
+  - enabled: 1
+    path: Assets/Scenes/level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/level2.unity
+    guid: 65e34bcd567bad941856d71185b6e427
+  - enabled: 1
+    path: Assets/Scenes/level3.unity
+    guid: 877bb08776f0398489267840fe4c21f6
+  - enabled: 1
+    path: Assets/Scenes/level4.unity
+    guid: 6aa9e88fa1c538841af7eaf8915dc6c0
+  - enabled: 1
+    path: Assets/Scenes/level5.unity
+    guid: 0523364a727128445a1bfa243e96c9b4
+  - enabled: 1
+    path: Assets/Scenes/level6.unity
+    guid: c52177f20fa33cc448c8661719602e00
+  - enabled: 1
+    path: Assets/Scenes/level7.unity
+    guid: 416ffbd4aaa24674eab10676cdd761d8
+  - enabled: 1
+    path: Assets/Scenes/level8.unity
+    guid: c28eac6e9a1d89240a14ffb10a28dfa2
+  - enabled: 1
+    path: Assets/Scenes/level9.unity
+    guid: fea6e296140c39242949319da461e915
+  - enabled: 1
+    path: Assets/Scenes/level10.unity
+    guid: 80cc747eb5dcb864c96187c9091380c2
+  - enabled: 1
+    path: Assets/Scenes/levelson.unity
+    guid: c1bc9363e486cd44e8c273320459a35a
+  m_configObjects: {}
